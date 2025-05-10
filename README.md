@@ -1,5 +1,5 @@
-# bmwebsite
-# Création d'une version "type Nike" du site pour BM
+# BM
+# unique
 nike_style_html = """<!DOCTYPE html>
 <html lang="fr">
 <head>
